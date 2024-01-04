@@ -5,4 +5,6 @@ It was the best of times. It was the worst of times.
 "$ git add <filename>" to add a file
 "$ git add ." to add all files in that directory
 "$ git commit -m 'message'" to commit your changes in file into git.
-"$ git log" to check the date when you commit.
+"$ git log" to check all commitment dates.
+"$ git diff <filename>" to check differences between the last and the present.
+"$ git checkout <filename>" to go back to the last one.
