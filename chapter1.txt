@@ -1,0 +1,4 @@
+It was the best of times. It was the worst of times.
+
+"$ git init" to start git.
+"$ git status" to check file's status.
