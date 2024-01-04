@@ -1,0 +1,17 @@
+"$ git init" to start git.
+"$ git status" to check file's status.
+"$ git add <filename>" to add a file
+"$ git add ." to add all files in that directory
+"$ git commit -m 'message'" to commit your changes in file into git.
+"$ git log" to check all commitment dates.
+"$ git diff <filename>" to check differences between the last and the present.
+"$ git checkout <filename>" to go back to the last one.
+"$ git rm --cached -r -f <filename>" to remove a file from tracking by git.
+"$ git rm --cached -r -f ." to remove all files from tracking by git.
+"$ touch .gitignore" to add .gitignore
+
+.gitignore can store the files so that those will be hided.
+
+"$ git clone <url>" to clone a file from github
+"$ git branch <branch name>" to create a branch
+"$ git checkout <branch name>" to switch to that branch.
