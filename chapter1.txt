@@ -8,3 +8,8 @@ It was the best of times. It was the worst of times.
 "$ git log" to check all commitment dates.
 "$ git diff <filename>" to check differences between the last and the present.
 "$ git checkout <filename>" to go back to the last one.
+"$ git rm --cached -r <filename>" to remove a file from tracking by git.
+"$ git rm --cached -r -f ." to remove all files from tracking by git.
+"$ touch .gitignore" to add .gitignore
+
+.gitignore can store the files so that those will be hided.
