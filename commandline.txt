@@ -14,4 +14,6 @@
 
 "$ git clone <url>" to clone a file from github
 "$ git branch <branch name>" to create a branch
+"$ git branch" to check branches.
 "$ git checkout <branch name>" to switch to that branch.
+"$ git merge <branch name>" to merge this branch with main branch
